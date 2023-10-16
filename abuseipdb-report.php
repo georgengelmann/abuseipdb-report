@@ -27,7 +27,7 @@ function report_failed_login($username, $error) {
             // Define the parameters for the AbuseIPDB report
             $data = array(
                 'ip' => $ip,
-                'categories' => '18,22',  // WordPress Brute Force and Web App Attack categories
+                'categories' => '18,21',  // WordPress Brute Force and Web App Attack categories
                 'comment' => "Failed login attempt for $username"
             );
 
