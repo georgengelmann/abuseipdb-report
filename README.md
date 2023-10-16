@@ -9,4 +9,4 @@ This WordPress plugin reports failed login attempts to AbuseIPDB. It has been te
 
 ## Configuration
 
-Set the $api_key in the abuseipdb-report.php file to your AbuseIPDB key.
+Set the API key in Settings -> AbuseIPDB Report Settings
