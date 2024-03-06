@@ -1,6 +1,6 @@
-# abuseipdb-report
+# abuse-report
 
-This WordPress plugin reports failed login attempts to AbuseIPDB. It has been tested with WordPress 6.3.1 and All In One WP Security 5.2.4.
+This WordPress plugin reports failed login attempts to AbuseIPDB. It has been tested with WordPress 6.4.3 and All In One WP Security 5.2.9.
 
 ## Requirements
 
@@ -9,4 +9,4 @@ This WordPress plugin reports failed login attempts to AbuseIPDB. It has been te
 
 ## Configuration
 
-Set the API key in Settings -> AbuseIPDB Report Settings
+Set the API key in Settings -> Abuse Report Settings
